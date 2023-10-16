@@ -1,0 +1,8 @@
+.tad{
+    border: solid black 2px;
+    border-radius: 50%;
+    background-color: salmon;
+    text-align: center;
+    font-size: larger;
+    width: 16rem;
+}
